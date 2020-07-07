@@ -316,9 +316,7 @@ header {
 }
 
 .about__block__info a:hover {
-  background-color: #40b684;
-  border: 2px solid #4ebf8f;
-  color: #fff;
+  background-color: #a1ffd6;
 }
 
 #services {
